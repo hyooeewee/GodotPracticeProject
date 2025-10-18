@@ -1,0 +1,3 @@
+[submodule "thinkboard"]
+	path = thinkboard
+	url = https://github.com/hyooeewee/thinkboard
